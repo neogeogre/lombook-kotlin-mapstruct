@@ -1,2 +1,7 @@
-# lombook-kotlin-mapstruct
-A mixed mapstruct project with java with lombook and kotlin
+```shell
+./gradlew clean build -xtest
+```
+
+```shell
+./gradlew clean build
+```
